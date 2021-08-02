@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class KeyBase 
 {
-    public const string BUNDLE_ID = "com.backfire.panda";
+    public const string BUNDLE_ID = "com.backfire.shape";
     public const string MAX_INTER_ID_A = "3d1810f143b9b928";
     public const string MAX_INTER_ID_B = "";
     public const string MAX_REWARD_ID = "7b274bb7a0b8fde1";
